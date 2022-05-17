@@ -1,0 +1,43 @@
+﻿  File.cpp
+  The contents of <any> are available only with C++17 or later.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.29.30133\include\experimental\filesystem(30,1): fatal error C1189: #error:  The <experimental/filesystem> header providing std::experimental::filesystem is deprecated by Microsoft and will be REMOVED. It is superseded by the C++17 <filesystem> header providing std::filesystem. You can define _SILENCE_EXPERIMENTAL_FILESYSTEM_DEPRECATION_WARNING to acknowledge that you have received this warning.
+  Map.cpp
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(13,12): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(14,16): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(17,14): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(22,16): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(23,16): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(34,21): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(36,15): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(37,31): error C2061: syntax error: identifier 'Point'
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(13,55): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(13,67): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(13,76): error C2065: 'value': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(14,45): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(14,57): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(18,16): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(19,28): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(19,40): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(22,37): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(22,55): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(22,73): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(22,87): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(23,43): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(23,61): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(23,79): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(23,93): error C2065: 'pos': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(36,57): error C2065: 'position': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(36,69): error C2065: 'position': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(38,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(96,31): error C2761: 'bool Minesweeper::Map::ProcessClick(void)': redeclaration of member is not allowed
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(96,25): error C2065: 'Point': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(96,31): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(97,5): error C2143: syntax error: missing ';' before '{'
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(97,5): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(143,41): error C2761: 'uint32_t Minesweeper::Map::CountAdjacentMines(void)': redeclaration of member is not allowed
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(143,35): error C2065: 'Point': undeclared identifier
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(143,41): error C2146: syntax error: missing ')' before identifier 'position'
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(144,2): error C2143: syntax error: missing ';' before '{'
+C:\Users\KrustoPC\Documents\FontEditor\Map.cpp(144,2): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...

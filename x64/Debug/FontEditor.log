@@ -1,0 +1,8 @@
+﻿  Editor.cpp
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(35,29): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(35,45): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(35,70): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(35,86): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(36,25): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+C:\Users\KrustoPC\Documents\FontEditor\Map.h(36,37): warning C4244: 'argument': conversion from 'float' to 'const unsigned __int64', possible loss of data
+  FontEditor.vcxproj -> C:\Users\KrustoPC\Documents\FontEditor\x64\Debug\FontEditor.exe
